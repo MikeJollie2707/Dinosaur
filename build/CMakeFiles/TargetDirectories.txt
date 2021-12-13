@@ -1,3 +1,0 @@
-/home/mike/Documents/Coding/C/Cpp/SFML_Projects/Dinosaur/build/CMakeFiles/edit_cache.dir
-/home/mike/Documents/Coding/C/Cpp/SFML_Projects/Dinosaur/build/CMakeFiles/rebuild_cache.dir
-/home/mike/Documents/Coding/C/Cpp/SFML_Projects/Dinosaur/build/CMakeFiles/dino.dir

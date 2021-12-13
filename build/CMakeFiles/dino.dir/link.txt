@@ -1,1 +1,0 @@
-/bin/x86_64-linux-gnu-g++-11  -g   CMakeFiles/dino.dir/src/main.cpp.o CMakeFiles/dino.dir/src/player.cpp.o CMakeFiles/dino.dir/src/obstacle.cpp.o  -o dino  -Wl,-rpath,/usr/local/lib /usr/local/lib/libsfml-graphics.so.2.5.1 /usr/local/lib/libsfml-audio.so.2.5.1 /usr/local/lib/libsfml-window.so.2.5.1 /usr/local/lib/libsfml-system.so.2.5.1 
