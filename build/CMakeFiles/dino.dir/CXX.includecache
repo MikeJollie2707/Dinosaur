@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/obstacle.hpp
+SFML/Graphics.hpp
+-
+random
+-
+
+../include/player.hpp
+SFML/Graphics.hpp
+-
+
+/home/mike/Documents/Coding/C/Cpp/SFML_Projects/Dinosaur/src/main.cpp
+obstacle.hpp
+/home/mike/Documents/Coding/C/Cpp/SFML_Projects/Dinosaur/src/obstacle.hpp
+player.hpp
+/home/mike/Documents/Coding/C/Cpp/SFML_Projects/Dinosaur/src/player.hpp
+SFML/Audio.hpp
+-
+cmath
+-
+iostream
+-
+vector
+-
+
