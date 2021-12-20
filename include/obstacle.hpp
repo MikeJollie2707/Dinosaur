@@ -1,5 +1,5 @@
-#ifndef OBSTACLE_HPP
-#define OBSTACLE_HPP
+#ifndef DINOSAUR_INCLUDE_OBSTACLE_HPP
+#define DINOSAUR_INCLUDE_OBSTACLE_HPP
 
 #include <SFML/Graphics.hpp>
 #include <random>

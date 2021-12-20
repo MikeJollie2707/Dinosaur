@@ -20,7 +20,7 @@ Obstacle::Obstacle(const Obstacle_Type& type, double init_x, double velocity)
         break;
     }
     case Obstacle_Type::Cactus1Low: {
-        hitbox.setSize(sf::Vector2f(10, -20));
+        hitbox.setSize(sf::Vector2f(10, -15));
         hitbox.setFillColor(sf::Color(34, 153, 84));
         hitbox.setPosition(init_x, 150);
         break;

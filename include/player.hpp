@@ -1,5 +1,5 @@
-#ifndef PLAYER_HPP
-#define PLAYER_HPP
+#ifndef DINOSAUR_INCLUDE_PLAYER_HPP
+#define DINOSAUR_INCLUDE_PLAYER_HPP
 
 #include <SFML/Graphics.hpp>
 

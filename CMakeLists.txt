@@ -5,6 +5,7 @@ add_executable(dino
     src/main.cpp
     src/player.cpp
     src/obstacle.cpp
+    src/game.cpp
 )
 
 find_package(SFML 2.5.1 COMPONENTS graphics audio REQUIRED)
